@@ -3,8 +3,8 @@ import twitterLogo from "./assets/twitter-logo.svg";
 import "./App.css";
 
 // Constants
-const TWITTER_HANDLE = "_buildspace";
-const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
+const TWITTER_HANDLE = "AzureKn1ght";
+const TWITTER_LINK = `https://github.com/AzureKn1ght`;
 const TEST_GIFS = [
   "https://media.giphy.com/media/O8GyWTlBlAmKhpMIMq/giphy.gif",
   "https://media.giphy.com/media/SwEfs4Lchv8o5WVYG2/giphy.gif",
@@ -152,13 +152,12 @@ const App = () => {
           {walletAddress && renderConnectedContainer()}
         </div>
         <div className="footer-container">
-          <img alt="Twitter Logo" className="twitter-logo" src={twitterLogo} />
           <a
             className="footer-text"
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          >{`Built with ♥ by ${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
