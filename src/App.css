@@ -98,8 +98,9 @@
   grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   grid-gap: 1.5rem;
   justify-items: center;
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: auto;
+  margin-bottom: 100px;
 }
 
 .gif-grid .gif-item {
@@ -111,7 +112,7 @@
 }
 
 .gif-item img {
-  width: 100%;
+  width: 450px;
   height: 300px;
   border-radius: 10px;
   object-fit: cover;
@@ -141,7 +142,14 @@
 
 @media only screen and (max-width: 768px) {
   /* For mobile devices, hide video bg */
-  iframe{
+  iframe {
     display: none;
+  }
+
+  .gif-item img {
+    width: 85%;
+    min-height: 300px;
+    border-radius: 10px;
+    object-fit: cover;
   }
 }
