@@ -131,11 +131,20 @@ const App = () => {
   return (
     <div className="App">
       {/* This was solely added for some styling fanciness */}
+      <div Style="position: fixed; z-index: 0; width: 100%; height: 100%; top: -50%; left: -50%;">
+        <iframe
+          frameborder="0"
+          height="200%"
+          width="200%"
+          src="https://www.youtube-nocookie.com/embed/yDiD8F9ItX0?autoplay=1&controls=0&showinfo=0&modestbranding=1&mute=1&loop=1&start=60"
+          title="youtube"
+        ></iframe>
+      </div>
       <div className={walletAddress ? "authed-container" : "container"}>
         <div className="header-container">
-          <p className="header">🖼 K-Pop GIF Portal</p>
+          <p className="header">K-Pop GIF Portal</p>
           <p className="sub-text">
-            ✨ View GIF collections in the Solana metaverse ✨
+            ✨ View k-pop GIF collections in the Solana metaverse ✨
           </p>
           {/* Add the condition to show this only if we don't have a wallet address */}
           {!walletAddress && renderNotConnectedContainer()}
