@@ -29,6 +29,14 @@
   color: white;
 }
 
+.tip { 
+  color: white;
+  font-size: 0.9em;
+  align-items: center;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
 .header-container {
   z-index: 99;
 }
