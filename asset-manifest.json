@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Web3-Solana-Dapp/static/css/main.b98c5f65.chunk.css",
+    "main.js": "/Web3-Solana-Dapp/static/js/main.985f02c7.chunk.js",
+    "main.js.map": "/Web3-Solana-Dapp/static/js/main.985f02c7.chunk.js.map",
+    "runtime-main.js": "/Web3-Solana-Dapp/static/js/runtime-main.49b834ff.js",
+    "runtime-main.js.map": "/Web3-Solana-Dapp/static/js/runtime-main.49b834ff.js.map",
+    "static/js/2.a69e89ca.chunk.js": "/Web3-Solana-Dapp/static/js/2.a69e89ca.chunk.js",
+    "static/js/2.a69e89ca.chunk.js.map": "/Web3-Solana-Dapp/static/js/2.a69e89ca.chunk.js.map",
+    "index.html": "/Web3-Solana-Dapp/index.html",
+    "static/css/main.b98c5f65.chunk.css.map": "/Web3-Solana-Dapp/static/css/main.b98c5f65.chunk.css.map",
+    "static/js/2.a69e89ca.chunk.js.LICENSE.txt": "/Web3-Solana-Dapp/static/js/2.a69e89ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49b834ff.js",
+    "static/js/2.a69e89ca.chunk.js",
+    "static/css/main.b98c5f65.chunk.css",
+    "static/js/main.985f02c7.chunk.js"
+  ]
+}
