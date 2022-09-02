@@ -24,11 +24,11 @@ My first web3 dapp deployed on Solana. You can submit and store GIFs on the bloc
 ## BUILD IT
 
 ### Technologies Used 
-- [Hardhat](https://hardhat.org/)
-- [Solidity](https://soliditylang.org/)
-- [Ethers.js](https://github.com/ethers-io/ethers.js/)
+- [Solana](https://hardhat.org/)
+- [Rust](https://soliditylang.org/)
+- [Anchor](https://www.anchor-lang.com/)
 - [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
+- [GitHub Actions](https://github.com/features/actions)
 
 ---
 
@@ -37,15 +37,15 @@ My first web3 dapp deployed on Solana. You can submit and store GIFs on the bloc
 We have deployed the dApp, so that everyone can see the website and we can share it with the world.
 
 ### Smart Contract 
-https://goerli.etherscan.io/address/0x2eda149048dF83547DF2b53D4c73eeb933f2b0eF
+https://explorer.solana.com/address/BcsgHu3sCQkC5DfMjbqM74zJEdtY4m3ZfDqMVjGYeWcU?cluster=devnet
 
 ### Dapp Frontend
-https://defi-exchange-azurekn1ght.vercel.app/
+https://azurekn1ght.github.io/Web3-Solana-Dapp/
 
 --- 
 
 ## Proof of Completion 
 
-![](https://i.imgur.com/1YOdnzP.gif)
+![](https://media.giphy.com/media/LwKrJHwN9oSklNvADF/giphy.gif)
 
 [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/21664/)
