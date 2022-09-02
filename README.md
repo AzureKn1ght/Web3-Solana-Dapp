@@ -24,8 +24,8 @@ My first web3 dapp deployed on Solana. You can submit and store GIFs on the bloc
 ## BUILD IT
 
 ### Technologies Used 
-- [Solana](https://hardhat.org/)
-- [Rust](https://soliditylang.org/)
+- [Solana](https://solana.com/)
+- [Rust](https://www.rust-lang.org/)
 - [Anchor](https://www.anchor-lang.com/)
 - [React](https://reactjs.org/)
 - [GitHub Actions](https://github.com/features/actions)
