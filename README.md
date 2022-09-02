@@ -29,6 +29,7 @@ https://azurekn1ght.github.io/Web3-Solana-Dapp/
 - [Solana](https://solana.com/)
 - [Rust](https://www.rust-lang.org/)
 - [Anchor](https://www.anchor-lang.com/)
+- [Phantom](https://phantom.app/)
 - [React](https://reactjs.org/)
 - [GitHub Actions](https://github.com/features/actions)
 
